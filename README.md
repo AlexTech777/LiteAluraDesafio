@@ -40,7 +40,8 @@ GET /libros/idiomas?idioma=en
 •	Maven
 •	Gutendex API
 
-![image](https://github.com/user-attachments/assets/9bdbd3bc-26b1-4a96-b4b6-a6d9bf663eec)
+![image](https://github.com/user-attachments/assets/09041275-3b6d-4e27-9d62-57180d9afd8a)
+
 
 ![image](https://github.com/user-attachments/assets/94e2e8dc-9adc-4930-ac62-86efe325f44b)
 
